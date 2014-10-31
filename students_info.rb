@@ -1,3 +1,7 @@
+# It works!
+# By convertion symbols are start with lowercase and are snake cased
+# I like that you are indenting your hashes inside the array, very communicative
+# The hashes are harder to read. Putting the curly brackets on their own line would make things better
 school_info = [
 
                 { First_Name: 'John',
